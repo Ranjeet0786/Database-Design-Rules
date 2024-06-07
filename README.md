@@ -1,10 +1,4 @@
-# Database-Design-Rules
-Some rules to create a database structure  
-I'm here to discuss some basic ideas for creating the best database design for organizations and what things we should notice while creating the database and its tables. Here, is my case study topic on the Johnson Car Dealership in Calgary. It is an imaginary company that I considered in this case study.
-In this case study, I will cover some points which are the introduction, purpose, and goals, after that list of subjects and the tables that I showed in the case study, the attribute specification, then with a conclusion I will end this project.
+# Johnson Database-Design-Rules
+To address issues brought on by data silos, Johnson Motors, which has three dealerships in Calgary, is thinking about updating its antiquated database. The dealership's history, mission, and guiding principles are covered in detail in the introduction. The need to utilize data analysis to improve dealership performance overall is emphasized in the conclusion. The dealership may increase customer happiness, operational effectiveness, and overall performance by implementing data-driven insights into every aspect of the business, from sales to customer service. It emphasizes how crucial it is to use data as a tactical instrument to accomplish dealership goals.
 
-An introduction Part shows that Johnson Motors has three dealerships in Over Calgary and they are thinking of upgrading their old database which lacks data sharing and causes conflict between their working employees. Explore the history, vision, and core values that drive our successful automotive dealership business. 
-
-The purpose of Johnson Motors is to more focus on a Centralized relational database which helps them boost their sales also enhances customer satisfaction. By data, they will know the market trends what customers need, and the preferences of customers. They have also some goals like flexibility and scalability needed to grow the dealerships and want to keep track of vehicles that they sold and repaired.
-
-Now, let's talk about the very important subjects in the database. Subjects are an entity of database means the which table shows which kind of data. If we choose the wrong entity then it may create a problem in the future, so choose an entity that shows clear data in database.
+If you want to read the full case study you can visit [here >>https://github.com/Ranjeet0786/Database-Design-Rules/blob/main/Group%205%20presentation.pdf]
